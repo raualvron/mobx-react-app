@@ -1,0 +1,1 @@
+export const SNAPSHOTS_APP_ENUM = 'snapshotsApp';
