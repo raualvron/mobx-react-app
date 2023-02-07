@@ -15,7 +15,7 @@ React application to add, remove, select, change, drag and drop boxes using inte
 - mst-middlewares
 
 ## Running on
-- localhost:300
+- localhost:3000
 
 ## Deploying
 ```
